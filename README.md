@@ -1,4 +1,4 @@
-### React-Lightbox-With-Video
+# React-Lightbox-With-Video
 
 This is library uses the base library, React Lightbox, along with some code from andrew-giangrant to allow Lightbox to use custom items (PDFs, videos, etc..). 
 
